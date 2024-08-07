@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    border: 2px solid black;
+    width: 600px;
+    height: 560px;
+    margin: 10px auto;
+}
+
+.inputText {
+    width: 95%;
+    height: 40px;
+    margin: 10px;
+    margin-left: 12px;
+    font-size: 20px;
+}
+
+._1 button {
+    width: 95%;
+    height: 40px;
+    margin: 10px;
+    margin-left: 12px;
+    font-size: 20px;
+
+}
+
+.btn {
+    width: 145px;
+    height: 80px;
+    margin-top: 20px;
+    font-size: 20px;
+    border: 1px solid black;
+}
+
+.lastBtn {
+    width: 195px;
+    height: 80px;
+    margin-top: 20px;
+    font-size: 20px;
+    border: 1px solid black;
+}
